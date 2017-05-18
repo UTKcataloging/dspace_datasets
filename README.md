@@ -14,7 +14,7 @@ This repository includes metadata for the DSPACE metadata migration.
 | collection | **Dont Map** |  |
 | dc.contributor.author | ```<name><namePart>VALUE</namePart><role><roleTerm authority="marcrelator" valueURI="">Creator</roleTerm</role>```| |
 | dc.coverage.spatial | ```<subject><geographic>VALUE</geographic><cartographics></cartographics>``` | Concat country / city |
-| dc.coverage.temporal | ```<originInfo><dateCreated encoding="edtf" keyDate="yes" point="start">VALUE1</dateCreated></originInfo><originInfo><dateCreated encoding="edtf" keyDate="yes" point="end">VALUE2</dateCreated></originInfo>``` | Split Values |
+| dc.coverage.temporal | ```<originInfo><dateCreated encoding="edtf" keyDate="yes" point="start">VALUE1</dateCreated>><dateCreated encoding="edtf" keyDate="yes" point="end">VALUE2</dateCreated><dateCreated>BOTH VALUES</dateCreated></originInfo>``` | Split Values |
 | dc.creator | ```<name><namePart>VALUE</namePart><role><roleTerm authority="marcrelator" valueURI="">Creator</roleTerm</role>``` |  |
 | dc.date.issued  | ```<originInfo><dateCaptured>VALUE</dateCaptured></originInfo>```|  |
 | dc.date.issued[]  | ```<originInfo><dateCaptured>VALUE</dateCaptured></originInfo>``` | If edtf, keep.  If not, drop. |
@@ -40,6 +40,7 @@ This repository includes metadata for the DSPACE metadata migration.
 |------|------|
 |```<relatedItem type="series"><titleInfo ><title>Faculty and Graduate Student Research and Creative Work</title></titleInfo></relatedItem>``` | |
 | ```<physicalDescription><form>Dataset</form></physicalDescription>``` | Couldn't find an ontology with URI that represented this concept. |
+| ```<typeOfResource>software, multimedia</typeOfResource>```| Appropriate for any electronic resource without a significant aspect that indicates one of the other <typeOfResource> categories. It includes: software, numeric data, computer-oriented multimedia, and online systems and services.  |
 
 ## OpenRefine Template
 
