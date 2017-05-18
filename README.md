@@ -14,7 +14,7 @@ This repository includes metadata for the DSPACE metadata migration.
 | collection | **Dont Map** |  |
 | dc.contributor.author | ```<name><namePart>VALUE</namePart><role><roleTerm authority="marcrelator" valueURI="">Creator</roleTerm</role>```| |
 | dc.coverage.spatial | ```<subject><geographic>VALUE</geographic><cartographics></cartographics>``` | Concat country / city |
-| dc.coverage.temporal | ```<originInfo><dateCreated encoding="edtf" keyDate="yes" point="start">VALUE1</dateCreated>><dateCreated encoding="edtf" keyDate="yes" point="end">VALUE2</dateCreated><dateCreated>BOTH VALUES</dateCreated></originInfo>``` | Split Values into individual nodes for machine actionable start / end dates in Solr.  Also, keep them together so we can display them like that to users. |
+| dc.coverage.temporal | ```<originInfo><dateCreated encoding="edtf" keyDate="yes" point="start">VALUE1</dateCreated>><dateCreated encoding="edtf" keyDate="yes" point="end">VALUE2</dateCreated><dateCreated>BOTH VALUES</dateCreated></originInfo>``` | Split Values into individual nodes for machine actionable start / end dates in Solr.  Also, keep them together so we can display them like that to users.    |
 | dc.creator | ```<name><namePart>VALUE</namePart><role><roleTerm authority="marcrelator" valueURI="">Creator</roleTerm</role>``` |  |
 | dc.date.issued  | ```<originInfo><dateCaptured>VALUE</dateCaptured></originInfo>```|  |
 | dc.date.issued[]  | ```<originInfo><dateCaptured>VALUE</dateCaptured></originInfo>``` | If edtf, keep.  If not, drop. |
