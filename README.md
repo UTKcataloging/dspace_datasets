@@ -6,6 +6,22 @@
 
 This repository includes metadata for the DSPACE metadata migration.
 
+## Repository Structure
+
+```
+|-- cleaned_data
+	|-- modsxml
+    	|-- record1.xml
+        |-- record2.xml
+    |-- remediation_files
+    	|-- open_refine_project.tar.gz
+        |-- mods_collection.xml
+        |-- mods_splitter.xsl
+|-- original_data
+	|-- dspace_datasets.csv
+|-- README.md
+```
+
 ## Metadata Mapping from DSPACE
 
 | Dspace Mapping | MODS Mapping | Notes |
@@ -43,6 +59,7 @@ This repository includes metadata for the DSPACE metadata migration.
 | ```<typeOfResource>software, multimedia</typeOfResource>```| Appropriate for any electronic resource without a significant aspect that indicates one of the other <typeOfResource> categories. It includes: software, numeric data, computer-oriented multimedia, and online systems and services.  |
 
 ## OpenRefine Template
+
 
 
 
