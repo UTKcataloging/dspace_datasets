@@ -39,7 +39,7 @@ This repository includes metadata for the DSPACE metadata migration.
 | New MODS Field | Notes |
 |------|------|
 |```<relatedItem type="series"><titleInfo ><title>Faculty and Graduate Student Research and Creative Work</title></titleInfo></relatedItem>``` | |
-| ```<physicalDescription><form>Dataset</form></physicalDescription>``` | Couldn't find an ontology with URI that represented this concept. |
+| ```<physicalDescription><form authority="casrai" valueURI="http://dictionary.casrai.org/Data_Set">Data Set</form></physicalDescription>``` | Couldn't find an ontology with URI that represented this concept. |
 | ```<typeOfResource>software, multimedia</typeOfResource>```| Appropriate for any electronic resource without a significant aspect that indicates one of the other <typeOfResource> categories. It includes: software, numeric data, computer-oriented multimedia, and online systems and services.  |
 
 ## OpenRefine Template
