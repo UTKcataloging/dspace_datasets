@@ -11,7 +11,6 @@
 
 ```
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-
 <titleInfo><title>{{cells['Title'].value}}</title></titleInfo>
 <identifier type="local" displayLabel="dspace">{{cells['id'].value}}</identifier>
 <name><namePart>{{cells['dc.contributor.author.1'].value}}</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
@@ -62,7 +61,7 @@
 <relatedItem type="series"><titleInfo ><title>Faculty and Graduate Student Research and Creative Work</title></titleInfo></relatedItem>
 <physicalDescription><form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form></physicalDescription>
 <typeOfResource>software, multimedia</typeOfResource>
-<recordInfo><recordContentSource authority="viaf" valueURI="https://viaf.org/viaf/140434229/">University of Tennessee, Knoxville</recordContentSource> <languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin></recordInfo>
+<recordInfo><recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource> <languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin></recordInfo>
 </mods>
 ```
 
