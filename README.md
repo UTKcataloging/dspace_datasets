@@ -29,10 +29,10 @@ This repository includes metadata for the DSPACE metadata migration.
 |--------|--------|-------|
 | id | ```<identifier type="local" displayLabel="dspace">VALUE</identifier>``` | Not exactly sure what this is, but we can keep. |
 | collection | **Dont Map** | These collections aren't semantic or meaningful. |
-| dc.contributor.author | ```<name><namePart>VALUE</namePart><role><roleTerm authority="marcrelator" valueURI="">Creator</roleTerm</role>```| What is this?  How is it different than dc:creator? |
+| dc.contributor.author | ```<name><namePart>VALUE</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm</role>```|  |
 | dc.coverage.spatial | ```<subject><geographic>VALUE</geographic><cartographics></cartographics></subject>``` | Concat country / city |
 | dc.coverage.temporal | ```<originInfo><dateCreated encoding="edtf" keyDate="yes" point="start">VALUE1</dateCreated>><dateCreated encoding="edtf" keyDate="yes" point="end">VALUE2</dateCreated><dateCreated>BOTH VALUES</dateCreated></originInfo>``` | Split Values into individual nodes for machine actionable start / end dates in Solr.  Also, keep them together so we can display them like that to users. Also, what is this range?  Length of grant?  Length of research? |
-| dc.creator | ```<name><namePart>VALUE</namePart><role><roleTerm authority="marcrelator" valueURI="">Creator</roleTerm</role>``` | How is this different than contributor.author?  |
+| dc.creator | ```<name><namePart>VALUE</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm</role>``` |  |
 | dc.date.issued  | ```<originInfo><dateCaptured>VALUE</dateCaptured></originInfo>```|  |
 | dc.date.issued[]  | ```<originInfo><dateCaptured>VALUE</dateCaptured></originInfo>``` | If edtf, keep.  If not, drop. |
 | dc.date | ```<originInfo><dateCaptured>VALUE</dateCaptured></originInfo>``` |  |
