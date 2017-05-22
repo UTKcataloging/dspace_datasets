@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>van Riemsdijk Mic Nite Presentation</title>
+   </titleInfo>
+   <identifier type="local" displayLabel="dspace">11</identifier>
+   <name>
+      <namePart>van Riemsdijk, Micheline</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <geographic>Oslo (Norway)</geographic>
+   </subject>
+   <subject>
+      <geographic>Stavanger (Norway)</geographic>
+   </subject>
+   <abstract>The deposited documents are created for a project funded by the National Science Foundation on the governance of international labor migration: politics of scale and networks (Award #1155339). The site contains transcripts of interviews with stakeholders in international skilled migration, a survey conducted with foreign-born engineers and information technology specialists in two petroleum-related companies and two information technology companies, survey codes, a project web site, research presentations, and a project-related publication.</abstract>
+   <identifier type="doi"/>
+   <identifier type="doi">http://dx.doi.org/10.7290/V78G8HMV</identifier>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">nno</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction">The publicly available files are accessible to anyone. The restricted access files consist of de-identified survey data and de-identified interview transcriptions. These files are available by agreement. Please contact the PI, Micheline van Riemsdijk, at vanriems@utk.edu for access permission.</accessCondition>
+   <subject>
+      <topic>skilled migration</topic>
+   </subject>
+   <subject>
+      <topic>immigration</topic>
+   </subject>
+   <subject>
+      <topic>Norway</topic>
+   </subject>
+   <subject>
+      <topic>Oslo</topic>
+   </subject>
+   <subject>
+      <topic>Kongsberg</topic>
+   </subject>
+   <subject>
+      <topic>Stavanger</topic>
+   </subject>
+   <subject>
+      <topic>oil and gas industry</topic>
+   </subject>
+   <subject>
+      <topic>petroleum industry</topic>
+   </subject>
+   <subject>
+      <topic>engineering</topic>
+   </subject>
+   <subject>
+      <topic>information technology</topic>
+   </subject>
+   <subject>
+      <topic>scale</topic>
+   </subject>
+   <subject>
+      <topic>network</topic>
+   </subject>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Faculty and Graduate Student Research and Creative Work</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form>
+   </physicalDescription>
+   <typeOfResource>software, multimedia</typeOfResource>
+   <recordInfo>
+      <recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>

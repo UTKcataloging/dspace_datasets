@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Tasmanian Eucalyptus Plant Functional Trait and Herbivory Data</title>
+   </titleInfo>
+   <identifier type="local" displayLabel="dspace">25</identifier>
+   <name>
+      <namePart>Gorman, Courtney Ethe</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This is a dataset of commonly measured plant functional traits (height, internode length, leaf thickness, and specific leaf area) and herbivore responses (insect and mammalian) to those traits used for a comparitive analyses of endemic versus non-endemic Eucalyptus species.</abstract>
+   <note type="citation">Gorman, Courtney Ethe, "Tasmanian Eucalyptus Plant Functional Trait and Herbivory Data" (2014). http://dx.doi.org/10.7290/V7F769GZ</note>
+   <identifier type="doi">http://dx.doi.org/10.7290/V7F769GZ</identifier>
+   <subject>
+      <topic>Eucalyptus</topic>
+   </subject>
+   <subject>
+      <topic>Plant functional traits</topic>
+   </subject>
+   <subject>
+      <topic>Herbivory</topic>
+   </subject>
+   <subject>
+      <topic>Endemism</topic>
+   </subject>
+   <subject>
+      <topic>Species Interactions</topic>
+   </subject>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Faculty and Graduate Student Research and Creative Work</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form>
+   </physicalDescription>
+   <typeOfResource>software, multimedia</typeOfResource>
+   <recordInfo>
+      <recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Data from The State of Social Media Policies in Higher Education</title>
+   </titleInfo>
+   <identifier type="local" displayLabel="dspace">19</identifier>
+   <name>
+      <namePart>Pomerantz, Jeffrey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Hank, Carolyn</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Sugimoto, Cassidy R.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This dataset is from the paper "The State of Social Media Policies in Higher Education." This paper presents an analysis of the current state of development of social media policies at institution of higher education. Content analysis of social media policies for all institutions listed in the Carnegie Classification Data File revealed that less than one- quarter of institutions had an accessible social media policy. Analysis was done by institution and campus unit, finding that social media policies were most likely to appear at doctorate-granting institutions and health, athletics, and library units. Policies required that those affiliated with the institution post appropriate content, represent the unit appropriately, and moderate conversations with coworkers and external agencies. This analysis may inform the development and revision of social media policies across the field of higher education, taking into consideration the rapidly changing landscape of social media, issues of academic freedom, and notions of interoperability with policies at the unit and campus levels.</abstract>
+   <note displayLabel="sponsor">Association for Library and Information Science Education (ALISE)</note>
+   <note type="citation">Pomerantz, J., Hank, C., &amp; Sugimoto, C. R. (forthcoming 2015). The State of Social Media Policies in Higher Education. PLOS ONE.</note>
+   <identifier type="doi"/>
+   <identifier type="doi">http://dx.doi.org/10.7290/V70Z7156</identifier>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <subject>
+      <topic>higher education</topic>
+   </subject>
+   <subject>
+      <topic>policy</topic>
+   </subject>
+   <subject>
+      <topic>social media</topic>
+   </subject>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Faculty and Graduate Student Research and Creative Work</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form>
+   </physicalDescription>
+   <typeOfResource>software, multimedia</typeOfResource>
+   <recordInfo>
+      <recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>
