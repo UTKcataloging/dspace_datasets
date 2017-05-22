@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleInfo><title>Data Used in Carter et al., Exotic Plants and Thermal Regimes, Functional Ecology</title></titleInfo>
+<identifier type="local" displayLabel="dspace">26</identifier>
+<name><namePart>Carter, Evin Timothy</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<subject><geographic>null</geographic></subject>
+<subject><geographic>null</geographic></subject>
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">null</dateCreated>
+<dateCreated encoding="edtf" keyDate="yes" point="end">null</dateCreated>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>2014</dateCaptured>
+<dateCaptured>null</dateCaptured>
+</originInfo>
+<abstract>null</abstract>
+<abstract>Exotic Plants and Copperhead Resource Selection Data, Jefferson County, IN, USA, 2008-2011</abstract>
+<note displayLabel="sponsor">null</note>
+<note type="citation">null</note>
+<note type="citation">Carter, Evin Timothy, "Data Used in Carter et al., Exotic Plants and Thermal Regimes, Functional Ecology" (2014). http://dx.doi.org/10.7290/V79G5JR7</note>
+<identifier type="doi">http://dx.doi.org/10.7290/V79G5JR7</identifier>
+<identifier type="doi">null</identifier>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<accessCondition type="use and reproduction">null</accessCondition>
+<subject><topic>copperhead</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>exotic plants</topic></subject>
+<subject><topic>invasive species</topic></subject>
+<subject><topic>habitat selection</topic></subject>
+<subject><topic>temperature</topic></subject>
+<subject><topic>thermoregulation</topic></subject>
+<subject><topic>density</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<relatedItem type="series"><titleInfo ><title>Faculty and Graduate Student Research and Creative Work</title></titleInfo></relatedItem>
+<physicalDescription><form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form></physicalDescription>
+<typeOfResource>software, multimedia</typeOfResource>
+<recordInfo><recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource> <languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin></recordInfo>
+</mods><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleInfo><title>Test version 1</title></titleInfo>
+<identifier type="local" displayLabel="dspace">6</identifier>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<subject><geographic>null</geographic></subject>
+<subject><geographic>null</geographic></subject>
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">null</dateCreated>
+<dateCreated encoding="edtf" keyDate="yes" point="end">null</dateCreated>
+<dateCaptured>2015-01-01</dateCaptured>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>null</dateCaptured>
+</originInfo>
+<abstract>null</abstract>
+<abstract>null</abstract>
+<note displayLabel="sponsor">null</note>
+<note type="citation">null</note>
+<note type="citation">null</note>
+<identifier type="doi">null</identifier>
+<identifier type="doi">null</identifier>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<accessCondition type="use and reproduction">null</accessCondition>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<relatedItem type="series"><titleInfo ><title>Faculty and Graduate Student Research and Creative Work</title></titleInfo></relatedItem>
+<physicalDescription><form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form></physicalDescription>
+<typeOfResource>software, multimedia</typeOfResource>
+<recordInfo><recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource> <languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin></recordInfo>
+</mods><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleInfo><title>Test Submission</title></titleInfo>
+<identifier type="local" displayLabel="dspace">1</identifier>
+<name><namePart>NV, Atmire</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<subject><geographic>null</geographic></subject>
+<subject><geographic>null</geographic></subject>
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">null</dateCreated>
+<dateCreated encoding="edtf" keyDate="yes" point="end">null</dateCreated>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>2014-10-01</dateCaptured>
+<dateCaptured>null</dateCaptured>
+</originInfo>
+<abstract>null</abstract>
+<abstract>null</abstract>
+<note displayLabel="sponsor">null</note>
+<note type="citation">null</note>
+<note type="citation">null</note>
+<identifier type="doi"></identifier>
+<identifier type="doi">null</identifier>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<accessCondition type="use and reproduction">null</accessCondition>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<relatedItem type="series"><titleInfo ><title>Faculty and Graduate Student Research and Creative Work</title></titleInfo></relatedItem>
+<physicalDescription><form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form></physicalDescription>
+<typeOfResource>software, multimedia</typeOfResource>
+<recordInfo><recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource> <languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin></recordInfo>
+</mods><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleInfo><title>Data from Public Progress, Data Management and the Land Grant Mission</title></titleInfo>
+<identifier type="local" displayLabel="dspace">28</identifier>
+<name><namePart>Fernandez, Peter</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>Eaker, Christopher</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>Swauger, Shea</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>Davis, Miriam</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<subject><geographic>null</geographic></subject>
+<subject><geographic>null</geographic></subject>
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">null</dateCreated>
+<dateCreated encoding="edtf" keyDate="yes" point="end">null</dateCreated>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>2016-01-25</dateCaptured>
+<dateCaptured>null</dateCaptured>
+</originInfo>
+<abstract>This article reports results from a survey about data management practices and attitudes sent to agriculture researchers and extension personnel at the University of Tennessee Institute of Agriculture (UTIA) and the College of Agricultural Sciences and Warner College of Natural Resources at Colorado State University. Results confirm agriculture researchers, like many other scientists, continue to exhibit data management practices that fall short of generally accepted best practices. In addition, librarians, and others seeking to influence future behavior, may be informed by our finding of a relationship between the land-grant mission and researchers’ data management practices.</abstract>
+<abstract>null</abstract>
+<note displayLabel="sponsor">null</note>
+<note type="citation">Fernandez, P., Eaker, C., Swauger, S., &amp; Davis, M., "Data from Public Progress, Data Management and the Land Grant Mission" (2016). http://dx.doi.org/10.7290/V7KS6PHQ</note>
+<note type="citation">null</note>
+<identifier type="doi">http://dx.doi.org/10.7290/V7KS6PHQ</identifier>
+<identifier type="doi">null</identifier>
+<language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<accessCondition type="use and reproduction">null</accessCondition>
+<subject><topic>data sharing</topic></subject>
+<subject><topic> data management</topic></subject>
+<subject><topic> land-grant university</topic></subject>
+<subject><topic> agriculture researchers</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<relatedItem type="series"><titleInfo ><title>Faculty and Graduate Student Research and Creative Work</title></titleInfo></relatedItem>
+<physicalDescription><form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form></physicalDescription>
+<typeOfResource>software, multimedia</typeOfResource>
+<recordInfo><recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource> <languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin></recordInfo>
+</mods><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleInfo><title>Tasmanian Eucalyptus Plant Functional Trait and Herbivory Data</title></titleInfo>
+<identifier type="local" displayLabel="dspace">25</identifier>
+<name><namePart>Gorman, Courtney Ethe</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<subject><geographic>null</geographic></subject>
+<subject><geographic>null</geographic></subject>
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">null</dateCreated>
+<dateCreated encoding="edtf" keyDate="yes" point="end">null</dateCreated>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>2014</dateCaptured>
+<dateCaptured>null</dateCaptured>
+</originInfo>
+<abstract>This is a dataset of commonly measured plant functional traits (height, internode length, leaf thickness, and specific leaf area) and herbivore responses (insect and mammalian) to those traits used for a comparitive analyses of endemic versus non-endemic Eucalyptus species.</abstract>
+<abstract>null</abstract>
+<note displayLabel="sponsor">null</note>
+<note type="citation">null</note>
+<note type="citation">Gorman, Courtney Ethe, "Tasmanian Eucalyptus Plant Functional Trait and Herbivory Data" (2014). http://dx.doi.org/10.7290/V7F769GZ</note>
+<identifier type="doi">http://dx.doi.org/10.7290/V7F769GZ</identifier>
+<identifier type="doi">null</identifier>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<accessCondition type="use and reproduction">null</accessCondition>
+<subject><topic>Eucalyptus</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>Plant functional traits</topic></subject>
+<subject><topic>Herbivory</topic></subject>
+<subject><topic>Endemism</topic></subject>
+<subject><topic>Species Interactions</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<relatedItem type="series"><titleInfo ><title>Faculty and Graduate Student Research and Creative Work</title></titleInfo></relatedItem>
+<physicalDescription><form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form></physicalDescription>
+<typeOfResource>software, multimedia</typeOfResource>
+<recordInfo><recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource> <languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin></recordInfo>
+</mods><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleInfo><title>Data from The State of Social Media Policies in Higher Education</title></titleInfo>
+<identifier type="local" displayLabel="dspace">19</identifier>
+<name><namePart>Pomerantz, Jeffrey</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>Hank, Carolyn</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>Sugimoto, Cassidy R.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<subject><geographic>null</geographic></subject>
+<subject><geographic>null</geographic></subject>
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">null</dateCreated>
+<dateCreated encoding="edtf" keyDate="yes" point="end">null</dateCreated>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>2015-04</dateCaptured>
+<dateCaptured>null</dateCaptured>
+</originInfo>
+<abstract>This dataset is from the paper "The State of Social Media Policies in Higher Education." This paper presents an analysis of the current state of development of social media policies at institution of higher education. Content analysis of social media policies for all institutions listed in the Carnegie Classification Data File revealed that less than one- quarter of institutions had an accessible social media policy. Analysis was done by institution and campus unit, finding that social media policies were most likely to appear at doctorate-granting institutions and health, athletics, and library units. Policies required that those affiliated with the institution post appropriate content, represent the unit appropriately, and moderate conversations with coworkers and external agencies. This analysis may inform the development and revision of social media policies across the field of higher education, taking into consideration the rapidly changing landscape of social media, issues of academic freedom, and notions of interoperability with policies at the unit and campus levels.</abstract>
+<abstract>null</abstract>
+<note displayLabel="sponsor">Association for Library and Information Science Education (ALISE)</note>
+<note type="citation">null</note>
+<note type="citation">Pomerantz, J., Hank, C., &amp; Sugimoto, C. R. (forthcoming 2015). The State of Social Media Policies in Higher Education. PLOS ONE.</note>
+<identifier type="doi"></identifier>
+<identifier type="doi">http://dx.doi.org/10.7290/V70Z7156</identifier>
+<language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<accessCondition type="use and reproduction">null</accessCondition>
+<subject><topic>higher education</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>policy</topic></subject>
+<subject><topic>social media</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<relatedItem type="series"><titleInfo ><title>Faculty and Graduate Student Research and Creative Work</title></titleInfo></relatedItem>
+<physicalDescription><form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form></physicalDescription>
+<typeOfResource>software, multimedia</typeOfResource>
+<recordInfo><recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource> <languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin></recordInfo>
+</mods><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleInfo><title>Interview Codes</title></titleInfo>
+<identifier type="local" displayLabel="dspace">15</identifier>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>van Riemsdijk, Micheline</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<subject><geographic>Oslo (Norway)</geographic></subject>
+<subject><geographic>Stavanger (Norway)</geographic></subject>
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">2012-05</dateCreated>
+<dateCreated encoding="edtf" keyDate="yes" point="end">2013-08</dateCreated>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>2015-01-08</dateCaptured>
+</originInfo>
+<abstract>null</abstract>
+<abstract>The deposited documents are created for a project funded by the National Science Foundation on the governance of international labor migration: politics of scale and networks (Award #1155339). The site contains transcripts of interviews with stakeholders in international skilled migration, a survey conducted with foreign-born engineers and information technology specialists in two petroleum-related companies and two information technology companies, survey codes, a project web site, research presentations, and a project-related publication.</abstract>
+<note displayLabel="sponsor">null</note>
+<note type="citation">null</note>
+<note type="citation">null</note>
+<identifier type="doi"></identifier>
+<identifier type="doi">http://dx.doi.org/10.7290/V71Z429K</identifier>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">nno</languageTerm></language>
+<accessCondition type="use and reproduction">The publicly available files are accessible to anyone. The restricted access files consist of de-identified survey data and de-identified interview transcriptions. These files are available by agreement. Please contact the PI, Micheline van Riemsdijk, at vanriems@utk.edu for access permission.</accessCondition>
+<subject><topic>skilled migration</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>immigration</topic></subject>
+<subject><topic>Norway</topic></subject>
+<subject><topic>Oslo</topic></subject>
+<subject><topic>Kongsberg</topic></subject>
+<subject><topic>Stavanger</topic></subject>
+<subject><topic>oil and gas industry</topic></subject>
+<subject><topic>petroleum industry</topic></subject>
+<subject><topic>engineering</topic></subject>
+<subject><topic>information technology</topic></subject>
+<subject><topic>scale</topic></subject>
+<subject><topic>network</topic></subject>
+<relatedItem type="series"><titleInfo ><title>Faculty and Graduate Student Research and Creative Work</title></titleInfo></relatedItem>
+<physicalDescription><form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form></physicalDescription>
+<typeOfResource>software, multimedia</typeOfResource>
+<recordInfo><recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource> <languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin></recordInfo>
+</mods><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleInfo><title>Survey Responses and Interview Transcripts</title></titleInfo>
+<identifier type="local" displayLabel="dspace">16</identifier>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>van Riemsdijk, Micheline</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>Burnham, Alana</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>Basford, Scott</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>Cook, Matthew</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>Butler, Gareth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>Natvig, David</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<subject><geographic>Oslo (Norway)</geographic></subject>
+<subject><geographic>Stavanger (Norway)</geographic></subject>
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">2012-05</dateCreated>
+<dateCreated encoding="edtf" keyDate="yes" point="end">2013-08</dateCreated>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>2015-01-08</dateCaptured>
+</originInfo>
+<abstract>null</abstract>
+<abstract>The deposited documents are created for a project funded by the National Science Foundation on the governance of international labor migration: politics of scale and networks (Award #1155339). The site contains transcripts of interviews with stakeholders in international skilled migration, a survey conducted with foreign-born engineers and information technology specialists in two petroleum-related companies and two information technology companies, survey codes, a project web site, research presentations, and a project-related publication.</abstract>
+<note displayLabel="sponsor">null</note>
+<note type="citation">null</note>
+<note type="citation">null</note>
+<identifier type="doi">null</identifier>
+<identifier type="doi">null</identifier>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">nno</languageTerm></language>
+<accessCondition type="use and reproduction">The publicly available files are accessible to anyone. The restricted access files consist of de-identified survey data and de-identified interview transcriptions. These files are available by agreement. Please contact the PI, Micheline van Riemsdijk, at vanriems@utk.edu for access permission.</accessCondition>
+<subject><topic>skilled migration</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>immigration</topic></subject>
+<subject><topic>Norway</topic></subject>
+<subject><topic>Oslo</topic></subject>
+<subject><topic>Kongsberg</topic></subject>
+<subject><topic>Stavanger</topic></subject>
+<subject><topic>oil and gas industry</topic></subject>
+<subject><topic>petroleum industry</topic></subject>
+<subject><topic>engineering</topic></subject>
+<subject><topic>information technology</topic></subject>
+<subject><topic>scale</topic></subject>
+<subject><topic>network</topic></subject>
+<relatedItem type="series"><titleInfo ><title>Faculty and Graduate Student Research and Creative Work</title></titleInfo></relatedItem>
+<physicalDescription><form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form></physicalDescription>
+<typeOfResource>software, multimedia</typeOfResource>
+<recordInfo><recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource> <languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin></recordInfo>
+</mods><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleInfo><title>Project Website||SkilledMigration.net: Migration - Innovation - Networks - Dynamics - Scale (MINDS)</title></titleInfo>
+<identifier type="local" displayLabel="dspace">9</identifier>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>van Riemsdijk, Micheline</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<subject><geographic>Oslo (Norway)</geographic></subject>
+<subject><geographic>Stavanger (Norway)</geographic></subject>
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">2012-05</dateCreated>
+<dateCreated encoding="edtf" keyDate="yes" point="end">2013-08</dateCreated>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>2015-01-08</dateCaptured>
+</originInfo>
+<abstract>null</abstract>
+<abstract>The deposited documents are created for a project funded by the National Science Foundation on the governance of international labor migration: politics of scale and networks (Award #1155339). The site contains transcripts of interviews with stakeholders in international skilled migration, a survey conducted with foreign-born engineers and information technology specialists in two petroleum-related companies and two information technology companies, survey codes, a project web site, research presentations, and a project-related publication.</abstract>
+<note displayLabel="sponsor">null</note>
+<note type="citation">null</note>
+<note type="citation">null</note>
+<identifier type="doi"></identifier>
+<identifier type="doi">http://dx.doi.org/10.7290/V7NP22CJ</identifier>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">nno</languageTerm></language>
+<accessCondition type="use and reproduction">The publicly available files are accessible to anyone. The restricted access files consist of de-identified survey data and de-identified interview transcriptions. These files are available by agreement. Please contact the PI, Micheline van Riemsdijk, at vanriems@utk.edu for access permission.</accessCondition>
+<subject><topic>skilled migration</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>immigration</topic></subject>
+<subject><topic>Norway</topic></subject>
+<subject><topic>Oslo</topic></subject>
+<subject><topic>Kongsberg</topic></subject>
+<subject><topic>Stavanger</topic></subject>
+<subject><topic>oil and gas industry</topic></subject>
+<subject><topic>petroleum industry</topic></subject>
+<subject><topic>engineering</topic></subject>
+<subject><topic>information technology</topic></subject>
+<subject><topic>scale</topic></subject>
+<subject><topic>network</topic></subject>
+<relatedItem type="series"><titleInfo ><title>Faculty and Graduate Student Research and Creative Work</title></titleInfo></relatedItem>
+<physicalDescription><form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form></physicalDescription>
+<typeOfResource>software, multimedia</typeOfResource>
+<recordInfo><recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource> <languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin></recordInfo>
+</mods><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleInfo><title>Fafo Project Report</title></titleInfo>
+<identifier type="local" displayLabel="dspace">13</identifier>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>van Riemsdijk, Micheline</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>Cook, Matthew</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<subject><geographic>Oslo (Norway)</geographic></subject>
+<subject><geographic>Stavanger (Norway)</geographic></subject>
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">2012-05</dateCreated>
+<dateCreated encoding="edtf" keyDate="yes" point="end">2013-08</dateCreated>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>2015-01-08</dateCaptured>
+</originInfo>
+<abstract>null</abstract>
+<abstract>The deposited documents are created for a project funded by the National Science Foundation on the governance of international labor migration: politics of scale and networks (Award #1155339). The site contains transcripts of interviews with stakeholders in international skilled migration, a survey conducted with foreign-born engineers and information technology specialists in two petroleum-related companies and two information technology companies, survey codes, a project web site, research presentations, and a project-related publication.</abstract>
+<note displayLabel="sponsor">null</note>
+<note type="citation">null</note>
+<note type="citation">null</note>
+<identifier type="doi"></identifier>
+<identifier type="doi">http://dx.doi.org/10.7290/V7SF2T3W</identifier>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">nno</languageTerm></language>
+<accessCondition type="use and reproduction">The publicly available files are accessible to anyone. The restricted access files consist of de-identified survey data and de-identified interview transcriptions. These files are available by agreement. Please contact the PI, Micheline van Riemsdijk, at vanriems@utk.edu for access permission.</accessCondition>
+<subject><topic>skilled migration</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>immigration</topic></subject>
+<subject><topic>Norway</topic></subject>
+<subject><topic>Oslo</topic></subject>
+<subject><topic>Kongsberg</topic></subject>
+<subject><topic>Stavanger</topic></subject>
+<subject><topic>oil and gas industry</topic></subject>
+<subject><topic>petroleum industry</topic></subject>
+<subject><topic>engineering</topic></subject>
+<subject><topic>information technology</topic></subject>
+<subject><topic>scale</topic></subject>
+<subject><topic>network</topic></subject>
+<relatedItem type="series"><titleInfo ><title>Faculty and Graduate Student Research and Creative Work</title></titleInfo></relatedItem>
+<physicalDescription><form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form></physicalDescription>
+<typeOfResource>software, multimedia</typeOfResource>
+<recordInfo><recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource> <languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin></recordInfo>
+</mods><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleInfo><title>Survey Questions</title></titleInfo>
+<identifier type="local" displayLabel="dspace">14</identifier>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>van Riemsdijk, Micheline</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<subject><geographic>Oslo (Norway)</geographic></subject>
+<subject><geographic>Stavanger (Norway)</geographic></subject>
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">2012-05</dateCreated>
+<dateCreated encoding="edtf" keyDate="yes" point="end">2013-08</dateCreated>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>2015-01-08</dateCaptured>
+</originInfo>
+<abstract>null</abstract>
+<abstract>The deposited documents are created for a project funded by the National Science Foundation on the governance of international labor migration: politics of scale and networks (Award #1155339). The site contains transcripts of interviews with stakeholders in international skilled migration, a survey conducted with foreign-born engineers and information technology specialists in two petroleum-related companies and two information technology companies, survey codes, a project web site, research presentations, and a project-related publication.</abstract>
+<note displayLabel="sponsor">null</note>
+<note type="citation">null</note>
+<note type="citation">null</note>
+<identifier type="doi"></identifier>
+<identifier type="doi">http://dx.doi.org/10.7290/V7J1012V</identifier>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">nno</languageTerm></language>
+<accessCondition type="use and reproduction">The publicly available files are accessible to anyone. The restricted access files consist of de-identified survey data and de-identified interview transcriptions. These files are available by agreement. Please contact the PI, Micheline van Riemsdijk, at vanriems@utk.edu for access permission.</accessCondition>
+<subject><topic>skilled migration</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>immigration</topic></subject>
+<subject><topic>Norway</topic></subject>
+<subject><topic>Oslo</topic></subject>
+<subject><topic>Kongsberg</topic></subject>
+<subject><topic>Stavanger</topic></subject>
+<subject><topic>oil and gas industry</topic></subject>
+<subject><topic>petroleum industry</topic></subject>
+<subject><topic>engineering</topic></subject>
+<subject><topic>information technology</topic></subject>
+<subject><topic>scale</topic></subject>
+<subject><topic>network</topic></subject>
+<relatedItem type="series"><titleInfo ><title>Faculty and Graduate Student Research and Creative Work</title></titleInfo></relatedItem>
+<physicalDescription><form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form></physicalDescription>
+<typeOfResource>software, multimedia</typeOfResource>
+<recordInfo><recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource> <languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin></recordInfo>
+</mods><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleInfo><title>Alana Burnham Presentation</title></titleInfo>
+<identifier type="local" displayLabel="dspace">12</identifier>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>Burnham, Alana</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<subject><geographic>Oslo (Norway)</geographic></subject>
+<subject><geographic>Stavanger (Norway)</geographic></subject>
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">2012-05</dateCreated>
+<dateCreated encoding="edtf" keyDate="yes" point="end">2013-08</dateCreated>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>2015-01-08</dateCaptured>
+</originInfo>
+<abstract>null</abstract>
+<abstract>The deposited documents are created for a project funded by the National Science Foundation on the governance of international labor migration: politics of scale and networks (Award #1155339). The site contains transcripts of interviews with stakeholders in international skilled migration, a survey conducted with foreign-born engineers and information technology specialists in two petroleum-related companies and two information technology companies, survey codes, a project web site, research presentations, and a project-related publication.</abstract>
+<note displayLabel="sponsor">null</note>
+<note type="citation">null</note>
+<note type="citation">null</note>
+<identifier type="doi"></identifier>
+<identifier type="doi">http://dx.doi.org/10.7290/V7X63JT6</identifier>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">nno</languageTerm></language>
+<accessCondition type="use and reproduction">The publicly available files are accessible to anyone. The restricted access files consist of de-identified survey data and de-identified interview transcriptions. These files are available by agreement. Please contact the PI, Micheline van Riemsdijk, at vanriems@utk.edu for access permission.</accessCondition>
+<subject><topic>skilled migration</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>immigration</topic></subject>
+<subject><topic>Norway</topic></subject>
+<subject><topic>Oslo</topic></subject>
+<subject><topic>Kongsberg</topic></subject>
+<subject><topic>Stavanger</topic></subject>
+<subject><topic>oil and gas industry</topic></subject>
+<subject><topic>petroleum industry</topic></subject>
+<subject><topic>engineering</topic></subject>
+<subject><topic>information technology</topic></subject>
+<subject><topic>scale</topic></subject>
+<subject><topic>network</topic></subject>
+<relatedItem type="series"><titleInfo ><title>Faculty and Graduate Student Research and Creative Work</title></titleInfo></relatedItem>
+<physicalDescription><form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form></physicalDescription>
+<typeOfResource>software, multimedia</typeOfResource>
+<recordInfo><recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource> <languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin></recordInfo>
+</mods><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleInfo><title>van Riemsdijk Fafo Presentation</title></titleInfo>
+<identifier type="local" displayLabel="dspace">10</identifier>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>van Riemsdijk, Micheline</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<subject><geographic>Oslo (Norway)</geographic></subject>
+<subject><geographic>Stavanger (Norway)</geographic></subject>
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">2012-05</dateCreated>
+<dateCreated encoding="edtf" keyDate="yes" point="end">2013-08</dateCreated>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>2015-01-08</dateCaptured>
+</originInfo>
+<abstract>null</abstract>
+<abstract>The deposited documents are created for a project funded by the National Science Foundation on the governance of international labor migration: politics of scale and networks (Award #1155339). The site contains transcripts of interviews with stakeholders in international skilled migration, a survey conducted with foreign-born engineers and information technology specialists in two petroleum-related companies and two information technology companies, survey codes, a project web site, research presentations, and a project-related publication.</abstract>
+<note displayLabel="sponsor">null</note>
+<note type="citation">null</note>
+<note type="citation">null</note>
+<identifier type="doi"></identifier>
+<identifier type="doi">http://dx.doi.org/10.7290/V7D798BK</identifier>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">nno</languageTerm></language>
+<accessCondition type="use and reproduction">The publicly available files are accessible to anyone. The restricted access files consist of de-identified survey data and de-identified interview transcriptions. These files are available by agreement. Please contact the PI, Micheline van Riemsdijk, at vanriems@utk.edu for access permission.</accessCondition>
+<subject><topic>skilled migration</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>immigration</topic></subject>
+<subject><topic>Norway</topic></subject>
+<subject><topic>Oslo</topic></subject>
+<subject><topic>Kongsberg</topic></subject>
+<subject><topic>Stavanger</topic></subject>
+<subject><topic>oil and gas industry</topic></subject>
+<subject><topic>petroleum industry</topic></subject>
+<subject><topic>engineering</topic></subject>
+<subject><topic>information technology</topic></subject>
+<subject><topic>scale</topic></subject>
+<subject><topic>network</topic></subject>
+<relatedItem type="series"><titleInfo ><title>Faculty and Graduate Student Research and Creative Work</title></titleInfo></relatedItem>
+<physicalDescription><form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form></physicalDescription>
+<typeOfResource>software, multimedia</typeOfResource>
+<recordInfo><recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource> <languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin></recordInfo>
+</mods><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleInfo><title>van Riemsdijk Mic Nite Presentation</title></titleInfo>
+<identifier type="local" displayLabel="dspace">11</identifier>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>van Riemsdijk, Micheline</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<name><namePart>null</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre.html">Creator</roleTerm></role></name>
+<subject><geographic>Oslo (Norway)</geographic></subject>
+<subject><geographic>Stavanger (Norway)</geographic></subject>
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">2012-05</dateCreated>
+<dateCreated encoding="edtf" keyDate="yes" point="end">2013-08</dateCreated>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>null</dateCaptured>
+<dateCaptured>2015-01-08</dateCaptured>
+</originInfo>
+<abstract>null</abstract>
+<abstract>The deposited documents are created for a project funded by the National Science Foundation on the governance of international labor migration: politics of scale and networks (Award #1155339). The site contains transcripts of interviews with stakeholders in international skilled migration, a survey conducted with foreign-born engineers and information technology specialists in two petroleum-related companies and two information technology companies, survey codes, a project web site, research presentations, and a project-related publication.</abstract>
+<note displayLabel="sponsor">null</note>
+<note type="citation">null</note>
+<note type="citation">null</note>
+<identifier type="doi"></identifier>
+<identifier type="doi">http://dx.doi.org/10.7290/V78G8HMV</identifier>
+<language><languageTerm type="code" authority="iso639-2b">null</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language>
+<language><languageTerm type="code" authority="iso639-2b">nno</languageTerm></language>
+<accessCondition type="use and reproduction">The publicly available files are accessible to anyone. The restricted access files consist of de-identified survey data and de-identified interview transcriptions. These files are available by agreement. Please contact the PI, Micheline van Riemsdijk, at vanriems@utk.edu for access permission.</accessCondition>
+<subject><topic>skilled migration</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>null</topic></subject>
+<subject><topic>immigration</topic></subject>
+<subject><topic>Norway</topic></subject>
+<subject><topic>Oslo</topic></subject>
+<subject><topic>Kongsberg</topic></subject>
+<subject><topic>Stavanger</topic></subject>
+<subject><topic>oil and gas industry</topic></subject>
+<subject><topic>petroleum industry</topic></subject>
+<subject><topic>engineering</topic></subject>
+<subject><topic>information technology</topic></subject>
+<subject><topic>scale</topic></subject>
+<subject><topic>network</topic></subject>
+<relatedItem type="series"><titleInfo ><title>Faculty and Graduate Student Research and Creative Work</title></titleInfo></relatedItem>
+<physicalDescription><form authority="coar" valueURI="http://purl.org/coar/resource_type/c_ddb1">dataset</form></physicalDescription>
+<typeOfResource>software, multimedia</typeOfResource>
+<recordInfo><recordContentSource authority="isni" valueURI="http://www.isni.org/isni/0000000123151184">University of Tennessee (Knoxville)</recordContentSource> <languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin></recordInfo>
+</mods></modsCollection>
